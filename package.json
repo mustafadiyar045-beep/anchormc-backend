@@ -1,0 +1,13 @@
+{
+  "name": "anchormc-launcher-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AnchorMC Launcher icin kucuk, bagimsiz backend: aktif kurulum sayaci + haber yonetimi. Sifir bagimliliktir (sadece Node.js core modulleri).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
